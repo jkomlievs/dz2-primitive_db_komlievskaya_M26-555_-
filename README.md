@@ -42,6 +42,5 @@
 
 ### Демонстрация (asciinema)
 
-<script src="https://asciinema.org/a/m8ahoLZ2UfazRmTs"async></script>
 
 https://asciinema.org/a/m8ahoLZ2UfazRmTs
