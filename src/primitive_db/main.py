@@ -6,7 +6,7 @@ def main():
     run()
 
 
-def run_database():
+def demo():
     welcome()
 
 
